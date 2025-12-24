@@ -5,6 +5,8 @@
 
 ### Date last updated : 25 December 2025
 
+### Project author : L.W Kruger, Duizel, The Netherlands
+
 ## Project Title
 Explore US Bikeshare Data
 

@@ -2,6 +2,18 @@ import time
 import pandas as pd
 import numpy as np
 
+'''
+    This is the main file for the bikeshare project.
+    It contains the main functions for the project.
+    It also contains the main loop for the project.
+    It also contains the main input and output for the project.
+    It also contains the main error handling for the project.
+    It also contains the main logging for the project.
+    It also contains the main testing for the project.
+    It also contains the main documentation for the project.
+    It also contains the main configuration for the project.
+'''
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
